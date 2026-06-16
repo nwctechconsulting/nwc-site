@@ -71,7 +71,7 @@ This project includes a GitHub Actions workflow for GitHub Pages deployment:
 Copy and run this in terminal:
 
 ```bash
-git clone https://github.com/<your-username>/nwc-site.git
+git clone https://github.com/nwctechconsulting/nwc-site.git
 cd nwc-site
 npm install
 npm run dev
@@ -111,7 +111,7 @@ npm run preview
 3. Under **Build and deployment**, set **Source** to **GitHub Actions**.
 4. Go to **Actions** tab and make sure workflow **Deploy to GitHub Pages** passes.
 5. Open your site:
-   - `https://<username>.github.io/<repo-name>/`
+   - `https://nwctechconsulting.github.io/nwc-site/`
 
 ## Common Problems (Quick Fixes)
 
